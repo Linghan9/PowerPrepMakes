@@ -3,8 +3,9 @@
 }
 
 body {
+ background: #EEE;
   margin: 0;
-  font-family: "Lucida Grande";
+  padding: 0;
 }
 
 a {
